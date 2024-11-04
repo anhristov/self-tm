@@ -19,3 +19,9 @@ Official code release for the paper: **Self-supervised foundation model for temp
 ## Checkpoints
 > ToDo
 
+## Citation
+If you find this repository useful, please cite:
+```
+ToDo
+```
+
