@@ -1,10 +1,14 @@
+<div align="center">
 # Self-TM [BDCC 2025]
 
-<div align="center">
+<p align="center">
     <a href="https://www.mdpi.com/2504-2289/9/2/38"><strong>Paper</strong></a> |
     <a href="#usage"><strong>Usage</strong></a> |
-    <a href="#checkpoints"><strong>Checkpoints</strong></a> |
+    <a href="#checkpoints"><strong>Checkpoints</strong></a>
+</p>
 </div>
+
+--------------------------------------------------------------------------------
 
 Official code release for the paper: **Self-supervised foundation model for template matching**
 
